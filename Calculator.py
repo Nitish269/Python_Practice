@@ -1,3 +1,4 @@
+
 #addition
 def add(x,y):
     return x + y
@@ -10,7 +11,7 @@ def mul(x,y):
 #division
 def div(x,y):
     return x / y
-#main calculator programe
+#calculator programe
 print('calculator to calculate addition, subtraction,multiplication,division')
 print('Choose operation to perform on two numbers')
 print('1.add\n2.sub\n3.mul\n4.div')
